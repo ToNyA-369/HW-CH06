@@ -1,0 +1,3 @@
+﻿  P10-9.cpp
+d:\程式設計功課\ch6\p10-9\p10-9\p10-9.cpp(28): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  P10-9.vcxproj -> D:\程式設計功課\CH6\P10-9\Debug\P10-9.exe
